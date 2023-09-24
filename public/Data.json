@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "Picture": "https://i.ibb.co/SrngxpL/Rectangle-4284.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Color_for_category_bg": "bg-[#0052FF33]",
+        "Color_for_card_bg": "bg-[#0052FF26]",
+        "Text_color": "text-[#0052FF]",
+        "Description": "This is a description for Product 1.",
+        "Price": 199.99
+    },
+    {
+        "id": 2,
+        "Picture": "https://i.ibb.co/7VgpYxK/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Color_for_category_bg": "bg-[#FF444A33]",
+        "Color_for_card_bg": "bg-[#FF444A26]",
+        "Text_color": "text-[#FF444A]",
+        "Description": "This is a description for Product 2.",
+        "Price": 49.99
+    },
+    {
+        "id": 3,
+        "Picture": "https://i.ibb.co/YhDTRs5/Rectangle-4287.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Color_for_category_bg": "bg-[#79C23F33]",
+        "Color_for_card_bg": "bg-[#79C23F33]",
+        "Text_color": "text-[#79C23F]",
+        "Description": "This is a description for Product 3.",
+        "Price": 149.99
+    },
+    {
+        "id": 4,
+        "Picture": "https://i.ibb.co/mXp687p/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Color_for_category_bg": "bg-[#F8714733]",
+        "Color_for_card_bg": "bg-[#F8714733]",
+        "Text_color": "text-[#F87147]",
+        "Description": "This is a description for Product 4.",
+        "Price": 29.99
+    },
+    {
+        "id": 5,
+        "Picture": "https://i.ibb.co/mXp687p/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Color_for_category_bg": "bg-[#F8714733]",
+        "Color_for_card_bg": "bg-[#F8714733]",
+        "Text_color": "text-[#F87147]",
+        "Description": "This is a description for Product 5.",
+        "Price": 79.99
+    },
+    {
+        "id": 6,
+        "Picture": "https://i.ibb.co/YhDTRs5/Rectangle-4287.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Color_for_category_bg": "bg-[#79C23F33]",
+        "Color_for_card_bg": "bg-[#79C23F33]",
+        "Text_color": "text-[#79C23F]",
+        "Description": "This is a description for Product 6.",
+        "Price": 249.99
+    },
+    {
+        "id": 7,
+        "Picture": "https://i.ibb.co/7VgpYxK/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Color_for_category_bg": "bg-[#FF444A33]",
+        "Color_for_card_bg": "bg-[#FF444A26]",
+        "Text_color": "text-[#FF444A]",
+        "Description": "This is a description for Product 7.",
+        "Price": 99.99
+    },
+    {
+        "id": 8,
+        "Picture": "https://i.ibb.co/SrngxpL/Rectangle-4284.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Color_for_category_bg": "bg-[#0052FF33]",
+        "Color_for_card_bg": "bg-[#0052FF26]",
+        "Text_color": "text-[#0052FF]",
+        "Description": "This is a description for Product 8.",
+        "Price": 179.99
+    },
+    {
+        "id": 9,
+        "Picture": "https://i.ibb.co/SrngxpL/Rectangle-4284.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Color_for_category_bg": "bg-[#0052FF33]",
+        "Color_for_card_bg": "bg-[#0052FF26]",
+        "Text_color": "text-[#0052FF]",
+        "Description": "This is a description for Product 9.",
+        "Price": 59.99
+    },
+    {
+        "id": 10,
+        "Picture": "https://i.ibb.co/7VgpYxK/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Color_for_category_bg": "bg-[#FF444A33]",
+        "Color_for_card_bg": "bg-[#FF444A26]",
+        "Text_color": "text-[#FF444A]",
+        "Description": "This is a description for Product 10.",
+        "Price": 299.99
+    },
+    {
+        "id": 11,
+        "Picture": "https://i.ibb.co/YhDTRs5/Rectangle-4287.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Color_for_category_bg": "bg-[#79C23F33]",
+        "Color_for_card_bg": "bg-[#79C23F33]",
+        "Text_color": "text-[#79C23F]",
+        "Description": "This is a description for Product 11.",
+        "Price": 79.99
+    },
+    {
+        "id": 12,
+        "Picture": "https://i.ibb.co/mXp687p/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Color_for_category_bg": "bg-[#F8714733]",
+        "Color_for_card_bg": "bg-[#F8714733]",
+        "Text_color": "text-[#F87147]",
+        "Description": "This is a description for Product 12.",
+        "Price": 199.99
+    }
+]
