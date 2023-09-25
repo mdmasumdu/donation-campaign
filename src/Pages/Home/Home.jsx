@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import Cards from "../Cards/Cards";
 import Search from "../Search";
 
-
 const Home = () => {
 
 
@@ -17,7 +16,7 @@ const Home = () => {
     return (
         <div>
             {/* search section */}
-      <div className="pb-60">
+      <div>
         <Search></Search>
       </div>
 

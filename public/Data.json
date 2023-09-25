@@ -4,10 +4,10 @@
         "Picture": "https://i.ibb.co/SrngxpL/Rectangle-4284.png",
         "Title": "Clean water for children",
         "Category": "Health",
-        "Color_for_category_bg": "bg-[#0052FF33]",
-        "Color_for_card_bg": "bg-[#0052FF26]",
-        "Text_color": "text-[#0052FF]",
-        "Description": "This is a description for Product 1.",
+        "Color_for_category_bg": "#0052FF33",
+        "Color_for_card_bg": "#0052FF26",
+        "Text_color": "#0052FF",
+        "Description": "ensure a healthier future for children by providing them with access to clean and safe drinking water. This product represents our commitment to bringing clean water to communities in need.",
         "Price": 199.99
     },
     {
@@ -15,10 +15,10 @@
         "Picture": "https://i.ibb.co/7VgpYxK/Education.png",
         "Title": "Good education",
         "Category": "Education",
-        "Color_for_category_bg": "bg-[#FF444A33]",
-        "Color_for_card_bg": "bg-[#FF444A26]",
-        "Text_color": "text-[#FF444A]",
-        "Description": "This is a description for Product 2.",
+        "Color_for_category_bg": "#FF444A33",
+        "Color_for_card_bg": "#FF444A26",
+        "Text_color": "#FF444A",
+        "Description": "Invest in the education of underprivileged children with our Good Education program. By purchasing this product, you are supporting our mission to provide quality learning resources and opportunities to deserving students. ",
         "Price": 49.99
     },
     {
@@ -26,10 +26,10 @@
         "Picture": "https://i.ibb.co/YhDTRs5/Rectangle-4287.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
-        "Color_for_category_bg": "bg-[#79C23F33]",
-        "Color_for_card_bg": "bg-[#79C23F33]",
-        "Text_color": "text-[#79C23F]",
-        "Description": "This is a description for Product 3.",
+        "Color_for_category_bg": "#79C23F33",
+        "Color_for_card_bg": "#79C23F33",
+        "Text_color": "#79C23F",
+        "Description": "Make a positive impact on the lives of individuals and families by contributing to our Used Clothing Drive. Your purchase helps us collect and distribute warm clothing to those facing adversity..",
         "Price": 149.99
     },
     {
@@ -37,10 +37,10 @@
         "Picture": "https://i.ibb.co/mXp687p/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
-        "Color_for_category_bg": "bg-[#F8714733]",
-        "Color_for_card_bg": "bg-[#F8714733]",
-        "Text_color": "text-[#F87147]",
-        "Description": "This is a description for Product 4.",
+        "Color_for_category_bg": "#F8714733",
+        "Color_for_card_bg": "#F8714733",
+        "Text_color": "#F87147",
+        "Description": "Make a significant impact on global food security by supporting our initiative. This product represents our commitment to ensuring that nutritious and wholesome meals are accessible to individuals and families in need. Your purchase of this product not only fills empty stomachs but also nourishes hope and strength in communities facing hunger. Together, we can create a world where everyone has access to better food and a brighter future.",
         "Price": 29.99
     },
     {
@@ -48,10 +48,10 @@
         "Picture": "https://i.ibb.co/mXp687p/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
-        "Color_for_category_bg": "bg-[#F8714733]",
-        "Color_for_card_bg": "bg-[#F8714733]",
-        "Text_color": "text-[#F87147]",
-        "Description": "This is a description for Product 5.",
+        "Color_for_category_bg": "#F8714733",
+        "Color_for_card_bg": "#F8714733",
+        "Text_color": "#F87147",
+        "Description": "Make a significant impact on global food security by supporting our initiative. This product represents our commitment to ensuring that nutritious and wholesome meals are accessible to individuals and families in need. Your purchase of this product not only fills empty stomachs but also nourishes hope and strength in communities facing hunger. Together, we can create a world where everyone has access to better food and a brighter future.",
         "Price": 79.99
     },
     {
@@ -59,10 +59,10 @@
         "Picture": "https://i.ibb.co/YhDTRs5/Rectangle-4287.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
-        "Color_for_category_bg": "bg-[#79C23F33]",
-        "Color_for_card_bg": "bg-[#79C23F33]",
-        "Text_color": "text-[#79C23F]",
-        "Description": "This is a description for Product 6.",
+        "Color_for_category_bg": "#79C23F33",
+        "Color_for_card_bg": "#79C23F33",
+        "Text_color": "#79C23F",
+        "Description": "Make a positive impact on the lives of individuals and families by contributing to our Used Clothing Drive. Your purchase helps us collect and distribute warm clothing to those facing adversity.",
         "Price": 249.99
     },
     {
@@ -70,10 +70,10 @@
         "Picture": "https://i.ibb.co/7VgpYxK/Education.png",
         "Title": "Good education",
         "Category": "Education",
-        "Color_for_category_bg": "bg-[#FF444A33]",
-        "Color_for_card_bg": "bg-[#FF444A26]",
-        "Text_color": "text-[#FF444A]",
-        "Description": "This is a description for Product 7.",
+        "Color_for_category_bg": "#FF444A33",
+        "Color_for_card_bg": "#FF444A26",
+        "Text_color": "#FF444A",
+        "Description": "Invest in the education of underprivileged children with our Good Education program. By purchasing this product, you are supporting our mission to provide quality learning resources and opportunities to deserving students.",
         "Price": 99.99
     },
     {
@@ -81,10 +81,10 @@
         "Picture": "https://i.ibb.co/SrngxpL/Rectangle-4284.png",
         "Title": "Clean water for children",
         "Category": "Health",
-        "Color_for_category_bg": "bg-[#0052FF33]",
-        "Color_for_card_bg": "bg-[#0052FF26]",
-        "Text_color": "text-[#0052FF]",
-        "Description": "This is a description for Product 8.",
+        "Color_for_category_bg": "#0052FF33",
+        "Color_for_card_bg": "#0052FF26",
+        "Text_color": "#0052FF",
+        "Description": "ensure a healthier future for children by providing them with access to clean and safe drinking water. This product represents our commitment to bringing clean water to communities in need. ",
         "Price": 179.99
     },
     {
@@ -92,10 +92,10 @@
         "Picture": "https://i.ibb.co/SrngxpL/Rectangle-4284.png",
         "Title": "Clean water for children",
         "Category": "Health",
-        "Color_for_category_bg": "bg-[#0052FF33]",
-        "Color_for_card_bg": "bg-[#0052FF26]",
-        "Text_color": "text-[#0052FF]",
-        "Description": "This is a description for Product 9.",
+        "Color_for_category_bg": "#0052FF33",
+        "Color_for_card_bg": "#0052FF26",
+        "Text_color": "#0052FF",
+        "Description": "ensure a healthier future for children by providing them with access to clean and safe drinking water. This product represents our commitment to bringing clean water to communities in need. ",
         "Price": 59.99
     },
     {
@@ -103,10 +103,10 @@
         "Picture": "https://i.ibb.co/7VgpYxK/Education.png",
         "Title": "Good education",
         "Category": "Education",
-        "Color_for_category_bg": "bg-[#FF444A33]",
-        "Color_for_card_bg": "bg-[#FF444A26]",
-        "Text_color": "text-[#FF444A]",
-        "Description": "This is a description for Product 10.",
+        "Color_for_category_bg": "#FF444A33",
+        "Color_for_card_bg": "#FF444A26",
+        "Text_color": "#FF444A",
+        "Description": "Invest in the education of underprivileged children with our Good Education program. By purchasing this product, you are supporting our mission to provide quality learning resources and opportunities to deserving students.",
         "Price": 299.99
     },
     {
@@ -114,10 +114,10 @@
         "Picture": "https://i.ibb.co/YhDTRs5/Rectangle-4287.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
-        "Color_for_category_bg": "bg-[#79C23F33]",
-        "Color_for_card_bg": "bg-[#79C23F33]",
-        "Text_color": "text-[#79C23F]",
-        "Description": "This is a description for Product 11.",
+        "Color_for_category_bg": "#79C23F33",
+        "Color_for_card_bg": "#79C23F33",
+        "Text_color": "#79C23F",
+        "Description": "Make a positive impact on the lives of individuals and families by contributing to our Used Clothing Drive. Your purchase helps us collect and distribute warm clothing to those facing adversity.",
         "Price": 79.99
     },
     {
@@ -125,10 +125,10 @@
         "Picture": "https://i.ibb.co/mXp687p/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
-        "Color_for_category_bg": "bg-[#F8714733]",
-        "Color_for_card_bg": "bg-[#F8714733]",
-        "Text_color": "text-[#F87147]",
-        "Description": "This is a description for Product 12.",
+        "Color_for_category_bg": "#F8714733",
+        "Color_for_card_bg": "#F8714733",
+        "Text_color": "#F87147",
+        "Description": "Make a significant impact on global food security by supporting our initiative. This product represents our commitment to ensuring that nutritious and wholesome meals are accessible to individuals and families in need. Your purchase of this product not only fills empty stomachs but also nourishes hope and strength in communities facing hunger. Together, we can create a world where everyone has access to better food and a brighter future.",
         "Price": 199.99
     }
 ]
