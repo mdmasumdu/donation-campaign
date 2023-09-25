@@ -10,6 +10,9 @@ const Donation = () => {
 
       const[show,setshow] = useState(4)
 
+
+      
+
     
 
 
@@ -23,7 +26,7 @@ const Donation = () => {
 
     },[cards])
 
-
+console.log(donations.length)
     return (
         <div >
 
@@ -35,7 +38,7 @@ const Donation = () => {
           </div>
 
             <div className="flex justify-center mt-10">
-              <button onClick={()=>setshow(12)} className={`btn bg-blue-600 ${donations.length <=4 ?"hidden" : '', show === 12 ? 'hidden':''} `}>Show ALL</button>
+              <button onClick={()=>setshow(12)} className={`btn bg-blue-600 ${donations.length <= 4 ?"hidden" : ''} ${show === 12 ? 'hidden':''} `}>Show ALL</button>
             </div>
             
         </div>
