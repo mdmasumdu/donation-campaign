@@ -1,6 +1,6 @@
 
 
-import { PieChart, Pie, Cell } from "recharts";
+import { PieChart, Pie, Cell, Tooltip } from "recharts";
 import { getlocalstoarageitem } from "../../Utilities/Utility";
 import { useEffect, useState } from "react";
 
@@ -64,10 +64,12 @@ const Statistics = () => {
       },[])
 
 
-      const data = [
-        { name: "Group A", value:7 },
-        { name: "Group B", value: 5,}
-      ];
+      const data = [  
+        { name: "My Contribution", value:statistics },
+      { name: "Others contribution", value: remaingstat,}
+    ]
+      
+      
       
       console.log(statistics,remaingstat)
     return (
@@ -88,6 +90,7 @@ const Statistics = () => {
           <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
         ))}
       </Pie>
+      <Tooltip></Tooltip>
     </PieChart>
         </div>
     );

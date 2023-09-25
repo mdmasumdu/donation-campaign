@@ -8,7 +8,9 @@ const Search = ({filterhandler}) => {
     const [fil,setfil] = useState("all")
 
     const datataker =(e)=>{
-        e.preventDefault()
+        e.preventDefault();
+    
+    
 
        setfil(e.target.input.value)
     }
@@ -21,9 +23,9 @@ const Search = ({filterhandler}) => {
 
 <div className="flex items-center justify-center">
 
-    <form onSubmit={datataker}>
+    <form onSubmit={datataker} className="flex flex-col md:flex-row">
     <input type="search" name="input" id="" placeholder="search here"  className="p-5 w-96 h-12 rounded-md bg-white"/>
-    <input className="bg-red-400 h-10 text-black rounded-lg p-1" type="submit" value="Search" onClick={()=>filterhandler(fil)} />
+    <input className="bg-red-400 h-12 text-black rounded-lg p-1" type="submit" value="Search" onClick={()=>filterhandler(fil)} />
 
     </form>
     

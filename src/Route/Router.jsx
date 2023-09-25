@@ -4,11 +4,14 @@ import Home from "../Pages/Home/Home";
 import Donation from "../Pages/Donation/Donation";
 import Statistics from "../Pages/Statistics/Statistics";
 import Details from "../Pages/Deatils/Details";
+import Error from "../Pages/Error";
 
 const mycreatedrouter =createBrowserRouter([
     {
         path:"/",
-        element:<Mainlayout></Mainlayout>
+        element:<Mainlayout></Mainlayout>,
+
+        errorElement:<Error></Error>
         ,
         children:[
 
@@ -18,7 +21,7 @@ const mycreatedrouter =createBrowserRouter([
             },
             {
                 path:"/donation",
-                loader:()=>fetch('/public/Data.json'),
+                loader:()=>fetch('/Data.json'),
                 element:<Donation></Donation>
             },
             {
@@ -27,7 +30,7 @@ const mycreatedrouter =createBrowserRouter([
             },
             {
                 path:"/details/:id",
-                loader:()=>fetch('/public/Data.json'),
+                loader:()=>fetch('/Data.json'),
                 element:<Details></Details>
             }
         ]

@@ -8,7 +8,7 @@ const Details = () => {
     const data =useLoaderData()
     const {id} = useParams()
     
-    const wanted = data.find(carda => carda.id ===parseInt(id))
+    const wanted = data.find(carda => carda.id === parseInt(id))
 
 
 
@@ -19,14 +19,12 @@ const Details = () => {
         
     }
     return (
-        <div className="flex flex-col items-center">
+        <div>
+            <img className="w-2/3 h-96 mx-auto" src={wanted.Picture} alt="" />
+            <button className="absolute -mt-10 ml-28 md:ml-56 text-white" style={{backgroundColor:wanted.Text_color}} onClick={donationHandler} >Donate $ {wanted.Price}</button>
 
-            <div className="h-3/4">
-            <img  src={wanted.Picture} alt="" />
-
-            <button className="absolute -mt-10 ml-2 text-white" style={{backgroundColor:wanted.Text_color}} onClick={donationHandler} >Donate $ {wanted.Price}</button>
-            </div>
-            <div className="p-10">
+    
+            <div className=" w-2/3 mx-auto p-10">
             <h1 className="text-3xl font-bold text-black">{wanted.Title}</h1>
             <p className="text-xl text-black">{wanted.Description}</p>
             

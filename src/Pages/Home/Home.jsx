@@ -63,7 +63,7 @@ const Home = () => {
 
 
       {/* card section */}
-      <div>
+      <div className="mt-20 md:mt-0">
         <Cards filter={filter}></Cards>
       </div>
             
