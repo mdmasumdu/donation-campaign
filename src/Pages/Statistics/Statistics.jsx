@@ -73,16 +73,16 @@ const Statistics = () => {
       
       console.log(statistics,remaingstat)
     return (
-        <div className="flex justify-center">
+        <div className="flex justify-center ml-10">
 
-            <PieChart width={400} height={400}>
+            <PieChart width={450} height={500}>
       <Pie
         data={data}
         cx={200}
         cy={200}
         labelLine={false}
         label={renderCustomizedLabel}
-        outerRadius={80}
+        outerRadius={170}
         fill="#8884d8"
         dataKey= 'value'
       >
