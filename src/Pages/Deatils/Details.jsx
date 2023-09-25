@@ -2,7 +2,7 @@ import { useLoaderData,  useParams } from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
 import { savetols } from "../../Utilities/Utility";
-
+import "./Deatils.css"
 const Details = () => {
 
     const data =useLoaderData()
@@ -21,8 +21,11 @@ const Details = () => {
     return (
         <div>
             <img className="w-2/3 h-96 mx-auto" src={wanted.Picture} alt="" />
-            <button className="absolute -mt-10 ml-28 md:ml-56 text-white" style={{backgroundColor:wanted.Text_color}} onClick={donationHandler} >Donate $ {wanted.Price}</button>
 
+            <div className="bg-content  -mt-20 w-2/3 mx-auto h-20">
+            <button className="content mt-6 ml-6 text-white" style={{backgroundColor:wanted.Text_color}} onClick={donationHandler} >Donate $ {wanted.Price}</button>
+            </div>
+ 
     
             <div className=" w-2/3 mx-auto p-10">
             <h1 className="text-3xl font-bold text-black">{wanted.Title}</h1>
