@@ -30,9 +30,9 @@ const Home = () => {
     const food = cards.filter(card=> card.Category === "Food")
     setFilter(food)
    }
-   else(
+   else{
     setFilter(cards)
-   )
+   }
    
   }
 
