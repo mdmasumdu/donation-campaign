@@ -9,7 +9,7 @@ import { useEffect, useState } from "react";
 
 
 
-const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042"];
+const COLORS = [ "#00C49F", "#FF444A"];
 
 const RADIAN = Math.PI / 12;
 const renderCustomizedLabel = ({
@@ -73,9 +73,9 @@ const Statistics = () => {
       
       console.log(statistics,remaingstat)
     return (
-        <div className="flex justify-center ml-10">
+        <div className="flex flex-col items-center ml-10">
 
-            <PieChart width={450} height={500}>
+            <PieChart width={450} height={400}>
       <Pie
         data={data}
         cx={200}
@@ -91,7 +91,19 @@ const Statistics = () => {
         ))}
       </Pie>
       <Tooltip></Tooltip>
+    
     </PieChart>
+
+    <div>
+      <p className="flex items-center gap-5">Your Donation: <svg width="100" height="12" viewBox="0 0 100 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="100" height="12" rx="2" fill="#00C49F"/>
+</svg> Total Donation: <svg width="100" height="12" viewBox="0 0 100 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="100" height="12" rx="2" fill="#FF444A"/>
+</svg>
+
+</p>
+    </div>
+
         </div>
     );
 };
