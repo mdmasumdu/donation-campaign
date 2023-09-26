@@ -94,10 +94,11 @@ const Statistics = () => {
     
     </PieChart>
 
-    <div>
-      <p className="flex items-center gap-5">Your Donation: <svg width="100" height="12" viewBox="0 0 100 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="100" height="12" rx="2" fill="#00C49F"/>
-</svg> Total Donation: <svg width="100" height="12" viewBox="0 0 100 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <div className="flex flex-col md:flex-row gap-5">
+      <p className="flex items-center gap-2">Your Donation: <svg width="100" height="12" viewBox="0 0 100 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="100" height="12" rx="2" fill="#00C49F"/></svg> </p>
+
+<p className="flex items-center gap-2">Total Donation: <svg width="100" height="12" viewBox="0 0 100 12" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="100" height="12" rx="2" fill="#FF444A"/>
 </svg>
 
